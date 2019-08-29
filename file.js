@@ -1,3 +1,2 @@
-console.log("s");
-console.log("s");
-console.log("s");
+console.log('hello world')
+console.log('hi')
